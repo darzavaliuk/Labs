@@ -13,8 +13,8 @@ public class Animal {
         this.age = age;
     }
 
-    public void getNumberOfLegs() {
-        System.out.println(numberOfLegs);
+    public int getNumberOfLegs() {
+        return numberOfLegs;
     }
 
     public void sleep() {
