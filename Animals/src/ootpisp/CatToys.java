@@ -10,6 +10,6 @@ public class CatToys {
     }
 
     public void print() {
-        System.out.println(xCoord + yCoord);
+        System.out.println(xCoord + " " + yCoord);
     }
 }
