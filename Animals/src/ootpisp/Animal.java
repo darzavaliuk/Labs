@@ -7,7 +7,6 @@ public class Animal {
     public Animal(int age, int numberOfLegs) {
         this.age = age;
         this.numberOfLegs = numberOfLegs;
-        System.out.println("An animal has been created!");
     }
 
     public void setAge(int age) {
